@@ -23,7 +23,7 @@ Ik heb in 'script.js' het volgende veranderd:
 
 Dan komt het er zo uit te zien:
 
-![interactie schetsen](iteratie/screen2)
+<img width="331" alt="screen2" src="https://user-images.githubusercontent.com/59923657/78787493-b8cc0100-79aa-11ea-9f59-0f3df21de4e9.png">
 
 Dit is gelukt met hulp van Sanne, nu ziet het er zo uit:
 

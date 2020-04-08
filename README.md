@@ -31,7 +31,7 @@ Dit is gelukt met hulp van Sanne, nu ziet het er zo uit:
 
 Ik heb de buttons meer naar het midden toe gedaan omdat ik dat er mooier uit vind zien, nu ziet het er zo uit:
 
-![interactie schetsen](iteratie/screen4)
+<img width="567" alt="screen4" src="https://user-images.githubusercontent.com/59923657/78787764-237d3c80-79ab-11ea-8b02-a1e81e384660.png">
 
 # stap 3: Bolletjes mee laten bewegen 
 In de video die ik heb gevolgd bij opdracht 2 hebben ze een voorbeeld voor dit maar het werkte bij mij maar niet. Ik heb het opnieuw geprobeerd, weer niet, toen ging ik andere manieren opzoeken, dit lukt helaas ook allemaal niet. Daarna heb ik alle code van dat onderdeel verwijderd en opnieuw geschreven en toen werkte het gelukkig!

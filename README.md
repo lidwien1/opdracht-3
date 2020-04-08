@@ -44,4 +44,4 @@ Hier heb ik weer hulp gevraagd aan Sanne. Hij heeft een button aangemaakt, als j
 
 De film details zien er zo uit:
 
-![interactie schetsen](iteratie/screen5)
+<img width="506" alt="screen5" src="https://user-images.githubusercontent.com/59923657/78787923-5c1d1600-79ab-11ea-9a65-8809cfc28993.png">

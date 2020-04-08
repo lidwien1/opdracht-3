@@ -10,7 +10,7 @@ Het is mij gelukt om ipv de foto's die ik in opdracht 2 had gebruikt voor de car
 
 (Ik heb even de width van het beeld veranderd zodat je de foto's iets dichter naast elkaar ziet staan.)
 
-![interactie schetsen](<img width="1375" alt="screen1" src="https://user-images.githubusercontent.com/59923657/78787340-7e626400-79aa-11ea-8ebc-befc4417b7cb.png">)
+<img width="1375" alt="screen1" src="https://user-images.githubusercontent.com/59923657/78787340-7e626400-79aa-11ea-8ebc-befc4417b7cb.png">)
 
 # stap 2: Het weer op een carousel laten lijken
 Als je op de bolletjes klikt wordt je nog steeds verwezen naar de afbeelding waar het bolletje bij hoort. Echter zijn mijn buttons aan de zijkanten verdwenen en ik heb echt alles geprobeerd maar ik krijg ze niet terug. 

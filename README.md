@@ -27,7 +27,7 @@ Dan komt het er zo uit te zien:
 
 Dit is gelukt met hulp van Sanne, nu ziet het er zo uit:
 
-![interactie schetsen](iteratie/screen3)
+<img width="1168" alt="screen3" src="https://user-images.githubusercontent.com/59923657/78787606-e153fb00-79aa-11ea-9cea-894537c5f834.png">
 
 Ik heb de buttons meer naar het midden toe gedaan omdat ik dat er mooier uit vind zien, nu ziet het er zo uit:
 
